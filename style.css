@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(10, 10, 10);
+}
+h1{
+    color: rgba(216, 206, 10, 0.991);
+    text-align: center;
+    background-color: rgb(66, 64, 64);
+    border-radius: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+img{
+    margin-top: 30px;
+    margin-inline-start: 20px;
+    border-radius: 30px;
+    border: 3px solid rgb(255, 0, 0);
+    
+}
